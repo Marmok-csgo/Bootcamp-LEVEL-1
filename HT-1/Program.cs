@@ -1,13 +1,13 @@
 ﻿//                  task-1
-//Console.WriteLine("Enter your name: ");
-//var name = Console.ReadLine();
-//Console.WriteLine("Enter your surname: ");
-//var surname = Console.ReadLine();
-//Console.WriteLine("Enter your age: ");
-//var age = Convert.ToInt32(Console.ReadLine());
-//Console.Write($"name:{name}\n" +
-//              $"surname:{surname}\n" +
-//              $"age:{age}");
+Console.WriteLine("Enter your name: ");
+var name = Console.ReadLine();
+Console.WriteLine("Enter your surname: ");
+var surname = Console.ReadLine();
+Console.WriteLine("Enter your age: ");
+var age = Convert.ToInt32(Console.ReadLine());
+Console.Write($"name:{name}\n" +
+              $"surname:{surname}\n" +
+              $"age:{age}");
 
 
 //                  task-2
