@@ -6,7 +6,7 @@
 
 //ismlar ro'yxati.
 
-
+Console.WriteLine("Hello");
 
 //                  Stack
 
