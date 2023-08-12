@@ -90,21 +90,21 @@ public class NewCollectionAggregator : ICollectionAggregator
 {
     public List<T> Concat<T>(in List<T> listA, in List<T> listB)
     {
-        // throw new NotImplementedException();
+        throw new NotImplementedException();
     }
 
     public List<T> Intersect<T>(in List<T> listA, in List<T> listB)
     {
-        // throw new NotImplementedException();
+        throw new NotImplementedException();
     }
 
     public List<T> Except<T>(in List<T> listA, in List<T> listB)
     {
-        // throw new NotImplementedException();
+        throw new NotImplementedException();
     }
 
     public List<T> Union<T>(in List<T> listA, in List<T> listB)
     {
-        // throw new NotImplementedException();
+        throw new NotImplementedException();
     }
 }
